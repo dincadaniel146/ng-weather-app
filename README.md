@@ -1,6 +1,6 @@
 # WeatherApp
 
-Angular weather app using the OpenWeatherMap API.
+Angular weather app using the [Weatherapi](https://www.weatherapi.com/) API.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.5.
 
 ## Development server
